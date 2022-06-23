@@ -42,7 +42,7 @@ const Contact = () => {
             <RiWhatsappLine className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+917761086460</h5>
-            <a href="https://web.whatsapp.com/send?phone=+917761086460" target="_blank">Send a message</a>
+            <a href="https://wa.me/7761086460" target="_blank">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
