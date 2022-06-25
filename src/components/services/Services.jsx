@@ -17,31 +17,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Creation of wireframes for UI/UX overflow.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Can use Figma and other softwares to create UI/UX designs.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Can use React framework for frontend web development.</p>
             </li>
           </ul>
         </article>
@@ -56,35 +40,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>I can develop Django framework based projects.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>I can also develop Node framework based projects.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Fullstack projects can be done as well.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>RESTful API for the website can also be created.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Deployment of the projects only for the development purposes.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Further maintenance for the website can also be done.</p>
             </li>
           </ul>
         </article>
@@ -93,41 +69,21 @@ const Services = () => {
 
         <article className="service">
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Software Development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>I can develop full fledged softwares.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>I can develop AI (especially Computer Vision) projects using OpenCV.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Also softwares can be created using Python (if possible).</p>
             </li>
           </ul>
         </article>
