@@ -40,12 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            I am a third year computer engineering student
-            having creative mindset and goal to make innovative
-            applications and software. Having experiences of
-            project management and also worked on health
-            related software group projects. Enthusiastic and
-            curious in learning new technologies.
+            Developer with solution-oriented and creative mindset to develop innovative applications and 
+            software. Having experience on developing websites, health related software and AI/ML projects.
+            Enthusiastic and curious in learning new technologies.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
